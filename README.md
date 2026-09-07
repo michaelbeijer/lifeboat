@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/lifeboat.svg" alt="A lifebuoy floating on water" width="150">
-</p>
+![An RNLI Severn Class lifeboat underway in Poole Harbour](assets/lifeboat.jpg)
 
 # Lifeboat
 
@@ -79,3 +77,5 @@ This is maintained, not finished. Commit history is the changelog.
 ## Licence
 
 [CC BY 4.0](LICENCE). Use it, adapt it, no need to ask.
+
+Photograph: RNLB *Roger and Joy Freeman*, a Severn Class lifeboat, in Poole Harbour. Taken by Adrian Pingstone and released into the public domain.
