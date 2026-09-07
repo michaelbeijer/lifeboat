@@ -1,0 +1,19 @@
+# Nothing from the private working copy is ever published.
+private/*
+!private/README.md
+
+# Credential debris — never commit, even accidentally.
+*.csv
+*.kdbx
+*.pdf
+*emergency*
+*recovery*
+*backup-codes*
+*secret*
+.env
+.env.*
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
