@@ -51,7 +51,8 @@ Its requirements are unusual, and mostly the opposite of what makes a good worki
 - **On a provider's own domain**, not a domain you control. A domain is only as available as your registrar account and your last renewal payment. An address on the provider's own domain has no DNS dependency and no renewal you can miss.
 - **At a different company** from the one it is protecting you against.
 - **Never used for correspondence.** It exists to sit in account-recovery fields.
-- **Not guessable.** It is the recovery address for your registrar and your bank. If it is `yourname@provider.com`, it is the first thing an attacker tries. Obscurity is not a substitute for a strong password and a second factor, but it stacks with them: a door nobody can find, plus a good lock, beats a good lock alone.
+- **Not guessable.** It is the recovery address for your registrar and your bank. If it is `yourname@provider.com`, it is the first thing an attacker tries. Nor should it describe its own job: `recovery@`, `backup@`, `spare@` and `admin@` are guessed as readily as your name. Three unrelated words from a password generator work, and you never have to remember them. Obscurity is not a substitute for a strong password and a second factor, but it stacks with them: a door nobody can find, plus a good lock, beats a good lock alone.
+- **On a paid plan.** Free tiers are commonly deleted after a year of inactivity, and a recovery identity is inactive by design. The warnings before deletion arrive in the mailbox you are deliberately not reading. A few pounds a year removes an entire failure mode from the account every other account depends on.
 
 Then make it the account email for the accounts at the root of the tree: registrar, DNS, banks, tax authority, password manager.
 
@@ -63,6 +64,7 @@ Breaking the obvious loop often leaves smaller ones behind. Check specifically:
 - **Recovery addresses on the recovery identity itself.** If the fallback mailbox sends its own password resets to the primary one, it is decorative.
 - **Separate fields on the same account.** A registrar may hold both an account login address and a per-domain contact address. Changing one does not change the other.
 - **Being someone else's recovery address.** If your mailbox is the recovery route for family members' accounts, your lockout is also theirs.
+- **One handset holding everything.** If your second factor and your recovery phone are the same phone, losing it, or a SIM swap, takes both at once. That is what the paper floor is for.
 
 ## The test
 

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 244" width="260" height="244" role="img" aria-label="A lifebuoy floating on water">
+  <g fill="none" stroke-linecap="round">
+    <circle cx="130" cy="106" r="72" stroke="#5e8bab" stroke-width="42"/>
+    <circle cx="130" cy="106" r="72" stroke="#c76a4a" stroke-width="42"
+            stroke-dasharray="56.5 56.5" transform="rotate(-22.5 130 106)"/>
+    <circle cx="130" cy="106" r="93" stroke="#8fa8b8" stroke-width="2.5"/>
+    <circle cx="130" cy="106" r="51" stroke="#8fa8b8" stroke-width="2.5"/>
+    <g stroke="#5e8bab" stroke-width="3.5" opacity="0.7">
+      <path d="M6 198 q 16 -9 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0"/>
+      <path d="M22 218 q 16 -9 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0"/>
+      <path d="M54 236 q 16 -9 32 0 t 32 0 t 32 0 t 32 0"/>
+    </g>
+  </g>
+</svg>

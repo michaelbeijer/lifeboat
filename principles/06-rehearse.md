@@ -19,6 +19,8 @@ None of these are visible from a green tick on a dashboard. Only a restore revea
 
 **Once – rehearse the switch.** Whatever your fallback is, run it on a quiet weekend. If it is a mail provider, repoint MX to it for an hour, send yourself a test, then repoint back. You will find at least one thing you had wrong.
 
+**Once – rehearse from a device the provider does not know.** Recovery flows behave differently when they do not recognise your computer, browser or location, and a delay of a day is common. That unfamiliar path is the one you will actually be on, because the recognised device is often the thing you have lost.
+
 **Once a year – read the runbook cold.** Give it to yourself as though you had never seen it. Steps that seemed obvious when you wrote them are frequently not.
 
 ## Write the runbook for the worst version of you

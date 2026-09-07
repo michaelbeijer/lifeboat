@@ -27,8 +27,10 @@ They do not encrypt anything. They copy browser-saved passwords, session cookies
 - API keys in environment variables or a secrets store, never in files or repositories.
 - Caution with trial software, installers, and unfamiliar packages. This is the primary vector, and it disproportionately affects people who install a lot of tools.
 
-## Two habits that matter more than any product
+## Three habits that matter more than any product
 
 **Never leave plaintext credential exports on disk.** Password manager migrations produce CSV files containing every password you own. Delete them immediately, empty the recycle bin, and confirm they did not sync anywhere. Treat one as an emergency until it is gone.
+
+**Never photograph or screenshot a setup screen.** Two-factor pages display the shared secret in plain text beside the QR code, and recovery pages display the codes. A screenshot of one puts a credential into your camera roll, your clipboard history, and any chat or support thread you paste it into, where it is beyond your control and will outlive your memory of it. If a secret has been captured, generate a new one rather than hoping.
 
 **Assume the built-in antivirus is adequate and spend the effort elsewhere.** Independent testing has put the major free option at parity with paid suites for years. Software you argue with is software you eventually disable – and a disabled control protects nobody.

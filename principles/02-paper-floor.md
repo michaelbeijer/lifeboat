@@ -43,6 +43,16 @@ What belongs on it:
 
 What does not belong on it: everything else. If the sheet is long you will not keep it current, and a stale recovery sheet is worse than none, because you will trust it.
 
+## Find out what shape the recovery material actually is
+
+It is not the same everywhere, and the differences change what you write down:
+
+- **A list of one-time codes.** Ten or so, each usable once. The common case.
+- **A single recovery code.** One string, reusable, and losing it removes your only route back.
+- **A recovery phrase for encrypted data.** At an end-to-end encrypted provider this does not merely restore access. Lose it and the contents are unrecoverable, because nobody else holds a key.
+
+Check which you have been given before you need it, and date every sheet you print. When a code is regenerated, replace every copy the same day.
+
 ## Loop vs. concentration
 
 Different failure modes, and the distinction matters:

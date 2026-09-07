@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lifeboat.svg" alt="A lifebuoy floating on water" width="150">
+</p>
+
 # Lifeboat
 
 **A working method for keeping a one-person business running when a provider, a machine, or an account fails.**
