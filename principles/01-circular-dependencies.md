@@ -51,7 +51,7 @@ Its requirements are unusual, and mostly the opposite of what makes a good worki
 - **On a provider's own domain**, not a domain you control. A domain is only as available as your registrar account and your last renewal payment. An address on the provider's own domain has no DNS dependency and no renewal you can miss.
 - **At a different company** from the one it is protecting you against.
 - **Never used for correspondence.** It exists to sit in account-recovery fields.
-- **Not guessable.** It is the recovery address for your registrar and your bank. If it is `yourname@provider.com`, it is the first thing an attacker tries.
+- **Not guessable.** It is the recovery address for your registrar and your bank. If it is `yourname@provider.com`, it is the first thing an attacker tries. Obscurity is not a substitute for a strong password and a second factor, but it stacks with them: a door nobody can find, plus a good lock, beats a good lock alone.
 
 Then make it the account email for the accounts at the root of the tree: registrar, DNS, banks, tax authority, password manager.
 
