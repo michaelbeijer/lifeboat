@@ -13,7 +13,7 @@ If the only offsite copy is a cloud provider you are also trying to become indep
 ## What actually needs to survive
 
 - Client deliverables and working files
-- Translation memories, glossaries, termbases — often irreplaceable, and often overlooked because they live inside application directories rather than in Documents
+- Translation memories, glossaries, termbases – often irreplaceable, and often overlooked because they live inside application directories rather than in Documents
 - Local mail and contact archives
 - Source code and repositories not yet pushed anywhere
 - Licence files and activation records
@@ -21,7 +21,7 @@ If the only offsite copy is a cloud provider you are also trying to become indep
 
 ## The arrangement
 
-- **Scheduled backup with versioning** to local storage — fast restore for the common case
+- **Scheduled backup with versioning** to local storage – fast restore for the common case
 - **An offsite copy pushed from that storage**, not from the workstation
 - **Encryption with a key you hold**, decided before the first upload
 - **Full-disk encryption** on the machine itself, so theft is a hardware loss rather than a confidentiality incident

@@ -23,7 +23,7 @@ A single well-chosen vault is easier to protect, easier to reason about, and eas
 
 The trade is only sound if there is a layer beneath it that does not depend on it.
 
-That layer is **paper**. Physical, offline, immune to lockouts, outages, dead devices and forgotten master passwords — provided it isn't in the house that burned down.
+That layer is **paper**. Physical, offline, immune to lockouts, outages, dead devices and forgotten master passwords – provided it isn't in the house that burned down.
 
 
 ```mermaid
@@ -52,7 +52,7 @@ Different failure modes, and the distinction matters:
 
 The first is a design error. The second is a deliberate trade, and a reasonable one.
 
-Storing a service's recovery codes inside your password manager is *not* a loop — the password manager never needs that service. It is a concentration, and the paper copy is what makes it acceptable.
+Storing a service's recovery codes inside your password manager is *not* a loop – the password manager never needs that service. It is a concentration, and the paper copy is what makes it acceptable.
 
 ## The uncomfortable part
 

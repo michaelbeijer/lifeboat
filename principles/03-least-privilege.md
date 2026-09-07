@@ -18,7 +18,7 @@ The change is small. It converts a catastrophe into an inconvenient afternoon.
 
 A coding agent typically has read access to your entire home directory by default, with writes restricted to the working directory. That default lets it read credential files, SSH keys, and whatever happens to be sitting in Downloads.
 
-Most of the time this is convenient. Occasionally it is a confidentiality breach — and if you hold client material under NDA, it is one your clients would care about.
+Most of the time this is convenient. Occasionally it is a confidentiality breach – and if you hold client material under NDA, it is one your clients would care about.
 
 - Deny reads on directories the agent has no business in: Downloads, client work, anything holding credentials.
 - Restrict network access to an explicit allowlist, so a hijacked agent cannot exfiltrate what it read.
@@ -35,4 +35,4 @@ Most of the time this is convenient. Occasionally it is a confidentiality breach
 
 In each case the question is the same: *what is the minimum this needs, and what does it currently have?*
 
-The gap between those two is your exposure, and it is almost always larger than you assumed — because permissions are granted once, when granting them is convenient, and reviewed never.
+The gap between those two is your exposure, and it is almost always larger than you assumed – because permissions are granted once, when granting them is convenient, and reviewed never.

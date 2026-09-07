@@ -4,7 +4,7 @@
 
 ## Causes
 
-Automated suspension for a policy violation you did not commit. A compromise, real or suspected. A billing failure. A hijack. Occasionally, no stated reason at all — with support that is largely automated.
+Automated suspension for a policy violation you did not commit. A compromise, real or suspected. A billing failure. A hijack. Occasionally, no stated reason at all – with support that is largely automated.
 
 The specific cause matters less than the shape: it is sudden, it is usually not negotiable in the short term, and appeals take days to weeks.
 
@@ -13,7 +13,7 @@ The specific cause matters less than the shape: it is sudden, it is usually not 
 More than mail:
 
 - Every account that used the address for password recovery
-- Every account using that provider for single sign-on — these fail instantly, with no reset path
+- Every account using that provider for single sign-on – these fail instantly, with no reset path
 - Documents, calendar, contacts
 - The authenticator app, if it syncs to that provider
 - The browser password store, if it syncs to that provider
@@ -47,7 +47,7 @@ flowchart TB
 
 ## The residual gap
 
-Mail sent between the failure and your switch will queue on senders' servers — most retry for a day or three — or hard-bounce. A same-morning switch recovers nearly all of it. A three-day switch does not.
+Mail sent between the failure and your switch will queue on senders' servers – most retry for a day or three – or hard-bounce. A same-morning switch recovers nearly all of it. A three-day switch does not.
 
 That gap is the argument for rehearsal ([principle 6](../principles/06-rehearse.md)).
 

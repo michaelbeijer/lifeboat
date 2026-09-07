@@ -32,7 +32,7 @@ RAID survives a failed disk. It does nothing about deletion, corruption, ransomw
 
 ## What a real arrangement looks like
 
-Three copies, two kinds of media, one offsite — but the emphasis belongs on **offsite**, which is the part people skip.
+Three copies, two kinds of media, one offsite – but the emphasis belongs on **offsite**, which is the part people skip.
 
 A workstation and a NAS in the same building share a postcode, a mains supply, a front door and a roof. One fire, flood, surge or burglary takes both. If your only offsite copy is a cloud provider you are also trying to become independent of, then the two disasters are not independent: losing that provider silently removes your protection against the worse one.
 

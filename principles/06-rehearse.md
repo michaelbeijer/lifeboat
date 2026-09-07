@@ -15,11 +15,11 @@ None of these are visible from a green tick on a dashboard. Only a restore revea
 
 ## What to rehearse, and how often
 
-**Every quarter — restore a real file.** Not "check the job succeeded". Pull something from six months ago off the backup, open it, confirm it is intact. Two minutes.
+**Every quarter – restore a real file.** Not "check the job succeeded". Pull something from six months ago off the backup, open it, confirm it is intact. Two minutes.
 
-**Once — rehearse the switch.** Whatever your fallback is, run it on a quiet weekend. If it is a mail provider, repoint MX to it for an hour, send yourself a test, then repoint back. You will find at least one thing you had wrong.
+**Once – rehearse the switch.** Whatever your fallback is, run it on a quiet weekend. If it is a mail provider, repoint MX to it for an hour, send yourself a test, then repoint back. You will find at least one thing you had wrong.
 
-**Once a year — read the runbook cold.** Give it to yourself as though you had never seen it. Steps that seemed obvious when you wrote them are frequently not.
+**Once a year – read the runbook cold.** Give it to yourself as though you had never seen it. Steps that seemed obvious when you wrote them are frequently not.
 
 ## Write the runbook for the worst version of you
 
@@ -35,4 +35,4 @@ You will be reading it panicked, possibly on a phone, possibly on someone else's
 
 Rehearsal also tells you the size of the gap you cannot close.
 
-There will be a window between a failure starting and your switch completing where some data is genuinely lost. Knowing that window is twenty minutes rather than three days is the difference between a plan and a hope — and the only way to find out is to run it.
+There will be a window between a failure starting and your switch completing where some data is genuinely lost. Knowing that window is twenty minutes rather than three days is the difference between a plan and a hope – and the only way to find out is to run it.

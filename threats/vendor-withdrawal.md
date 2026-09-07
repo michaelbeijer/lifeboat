@@ -1,6 +1,6 @@
 # Vendor withdrawal
 
-**A tool you depend on becomes unavailable — to you specifically, or in your country.**
+**A tool you depend on becomes unavailable – to you specifically, or in your country.**
 
 ## Causes
 
@@ -10,7 +10,7 @@ Any single vendor disappearing is unlikely. Some vendor in your stack changing m
 
 ## What it takes
 
-Rarely your data. Usually your *workflow* — the accumulated configuration, the integrations, the habits, and the specific outputs you have tuned around.
+Rarely your data. Usually your *workflow* – the accumulated configuration, the integrations, the habits, and the specific outputs you have tuned around.
 
 For a small business the disruption is measured in days of lost productivity rather than lost files, which is precisely why it gets no planning at all.
 
@@ -20,7 +20,7 @@ For a small business the disruption is measured in days of lost productivity rat
 
 **Prefer open formats and open protocols.** Data in files you can read with other software survives its vendor. Data in a proprietary container does not.
 
-**Keep a rough second choice in mind** for each critical tool. Not configured, not paid for — just identified, so a forced switch starts from a decision rather than a research project.
+**Keep a rough second choice in mind** for each critical tool. Not configured, not paid for – just identified, so a forced switch starts from a decision rather than a research project.
 
 **Separate the interface from the substance.** Where a tool is a front-end to something standardised, switching is cheap. Where it owns the format, it owns you.
 

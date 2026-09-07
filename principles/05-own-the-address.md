@@ -38,10 +38,10 @@ Maximum confidentiality and maximum portability pull in opposite directions.
 
 End-to-end encrypted providers genuinely cannot read your data. That same property means no open protocols, proprietary sync bridges, and a narrower exit.
 
-Neither is wrong. But they answer different questions — *nobody can read this* versus *nobody can lock me out of this* — and you should know which one you are actually asking. Most people never notice they were asked to choose.
+Neither is wrong. But they answer different questions – *nobody can read this* versus *nobody can lock me out of this* – and you should know which one you are actually asking. Most people never notice they were asked to choose.
 
 ## Keep a local copy regardless
 
 Repointing DNS restores delivery within minutes. It does nothing for twenty years of archived correspondence sitting on the old provider's servers.
 
-Continuous local sync via open protocols covers that. Periodic frozen snapshots cover what sync can't — because sync reproduces deletions too.
+Continuous local sync via open protocols covers that. Periodic frozen snapshots cover what sync can't – because sync reproduces deletions too.

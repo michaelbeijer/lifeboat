@@ -2,7 +2,7 @@
 private/*
 !private/README.md
 
-# Credential debris — never commit, even accidentally.
+# Credential debris – never commit, even accidentally.
 *.csv
 *.kdbx
 *.pdf

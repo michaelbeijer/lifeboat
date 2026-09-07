@@ -10,7 +10,7 @@ This is organised differently:
 
 **Threat model → Principle → Implementation**
 
-The threat models are the things that actually go wrong. The principles are the transferable part — they hold regardless of which vendors you use. The implementations are worked examples, and they are the part most likely to be out of date.
+The threat models are the things that actually go wrong. The principles are the transferable part – they hold regardless of which vendors you use. The implementations are worked examples, and they are the part most likely to be out of date.
 
 If you read only one section, read the principles.
 
@@ -58,7 +58,7 @@ It is public because the principles are worth sharing and because clients trusti
 
 Do not start by buying things.
 
-1. **Map what you have.** Which address is on file at every account that matters. This is tedious and it is the whole job — you cannot reason about dependencies you haven't listed.
+1. **Map what you have.** Which address is on file at every account that matters. This is tedious and it is the whole job – you cannot reason about dependencies you haven't listed.
 2. **Find the loops.** Anywhere recovery for A runs through B and recovery for B runs through A.
 3. **Break the loops first.** Nothing else you do matters until the recovery path works.
 4. **Then build depth.** Offsite copies, hardware keys, local archives.
